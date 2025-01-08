@@ -1,5 +1,3 @@
-/*
-
 
   Practice Questions -:
    1. Which of the following is invalid in C? 
@@ -14,6 +12,3 @@ a. Integer.
 b. Floating point number. 
 c. Character. 
 
-
-
-*/
