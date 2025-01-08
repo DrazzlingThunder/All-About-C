@@ -1,6 +1,6 @@
 // Basic c program to print Hello World!!
 #include<stdio.h>
-int main 
+int main ()
 {
   printf("Hello World !!");
   return 0;
