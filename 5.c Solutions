@@ -1,1 +1,32 @@
 
+/*  1. Write a C program to calculate area of a rectangle: 
+
+a. Using hard coded inputs. /*
+#include <stdio.h>
+
+int main() {
+    // Hard-coded values for length and width
+    double length = 5.0; // You can change this value
+    double width = 3.0;  // You can change this value
+
+    // Calculate the area
+    double area = length * width;
+
+    // Print the result
+    printf("Rectangle Area: %.2f square units\n", area);
+
+    return 0;
+}
+
+
+b. Using inputs supplied by the user. 
+
+2. Calculate the area of a circle and modify the same program to calculate the 
+volume of a cylinder given its radius and height.
+
+3. Write a program to convert Celsius (Centigrade degrees temperature to 
+Fahrenheit).
+
+4. Write a program to calculate simple interest for a set of values representing      
+principal, number of years and rate of interest. 
+
