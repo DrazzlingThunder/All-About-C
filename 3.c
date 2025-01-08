@@ -10,4 +10,9 @@ int main ()
   printf("Enter second number : ");
   scanf("%d",&b);
   // as discussed earlier 
+  // We can take out sum in two ways 
+
+  // By introducing int data type named as sum 
+   // or by 
+  
 }
