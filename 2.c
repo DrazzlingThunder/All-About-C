@@ -11,7 +11,7 @@ int main()
   scanf("%d",&b);
   // We can take out sum in two ways 
 
-  // By introducing int data type named as sum 
+  // By introducing int data type named as sum  
   int sum ;
   sum=a+b;
   printf("The sum of the digits is : %d\n",sum);
