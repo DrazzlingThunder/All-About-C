@@ -9,6 +9,8 @@ b. Using inputs supplied by the user.
 int main()
 {
 int length ,breadth ;
-
+printf("Enter Length of rectangle : ");
+scanf("%d",&length);
+  
 
 }
