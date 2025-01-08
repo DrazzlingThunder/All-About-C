@@ -22,6 +22,6 @@ int main ()
   {
     printf("The provided number is zero...");
   }
-  return 0;
+  return 0; 
 
 }
