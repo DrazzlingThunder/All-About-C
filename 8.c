@@ -25,3 +25,15 @@ int main ()
   return 0; 
 
 }
+
+/*
+OUTPUT
+Enter a number: 7
+The provided number is positive.
+
+Enter a number: -5
+The provided number is negative.
+
+Enter a number: 0
+The provided number is zero.
+*/
