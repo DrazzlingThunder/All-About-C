@@ -40,3 +40,16 @@ int main() {
 
     return 0;
 }
+
+/*
+OUTPUT
+Enter a number for the week (1-7): 1
+Sunday
+
+Enter a number for the week (1-7): 3
+Tuesday
+
+Enter a number for the week (1-7): 8
+Invalid week number! Please enter a number between 1 and 7.
+
+*/
