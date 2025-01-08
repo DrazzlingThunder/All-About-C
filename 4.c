@@ -2,7 +2,7 @@
 //float	4||	±3.4E-38 to ±3.4E+38	||Floating-point numbers (single precision)
 //double	8||	±1.7E-308 to ±1.7E+308	||Double-precision floating-point numbers
 //char	1	|| -128 to 127 or 0 to 255||	Single character or small integer
-//void	0	||N/A	||Used for functions with no return value
+//void	0	||N/A	||Used for functions with no return value 
 
 #include <stdio.h>
 
