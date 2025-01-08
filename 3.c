@@ -26,4 +26,14 @@ int main ()
   return 0;
   
 }
+/*
+Output
+int: 10
+float: 3.14
+char: A
+double: 2.71828180
+unsigned int: 100
+short int: -32768
+long int: 123456789
+*/
  
