@@ -22,5 +22,8 @@ int main()
 }
 /*
 OUTPUT
-
+Enter Two digits of which you want the sum:
+Enter First digit: 5
+Enter Second digit: 7
+The sum of the digits is: 12
 */
