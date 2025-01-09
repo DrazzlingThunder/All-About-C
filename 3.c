@@ -28,12 +28,12 @@ int main ()
 }
 /*
 Output
-int: 10
-float: 3.14
-char: A
-double: 2.71828180
-unsigned int: 100
-short int: -32768
-long int: 123456789
+Input a = 5;
+Input b = 6;
+The sum is 11
+The difference is -1
+The product is 30
+The quotient is 1
+The reminder is 1
 */
  
